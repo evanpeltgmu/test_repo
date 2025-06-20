@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-  cout<<"I am making a branch and changing it using vscode"<<'\n';
+  cout<<"modifying file in different branch"<<'\n';
 }
